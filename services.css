@@ -1,0 +1,29 @@
+body {
+    background-image: url(http://neighborsmovingseattle.com/wp-content/uploads/2017/07/lawncare-header-1.jpg);
+    background-size: 1750px;
+}
+
+.navbar-brand {
+    font-family: 'Shrikhand', cursive;
+    font-size: 35px;
+    color: green !important;
+}
+
+.banner {
+    font-family: 'Karla', sans-serif;
+    margin-top: 300px;
+    text-align: center;
+    color: white;
+    font-size: 20px !important;
+    background-color: rgba(0, 128, 0, 0.7);
+}
+
+.containter {
+    width: 100px;
+}
+
+@media (min-width: 2000px) {
+    .banner {
+        max-width: 970px;
+    }
+}
