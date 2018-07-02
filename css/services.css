@@ -1,0 +1,57 @@
+body {
+    height: 100%;
+    background-image: url(http://neighborsmovingseattle.com/wp-content/uploads/2017/07/lawncare-header-1.jpg);
+    background-size: 1700px;
+}
+
+.navbar-brand {
+    font-family: 'Shrikhand', cursive;
+    font-size: 35px;
+    color: green !important;
+}
+
+
+#services {
+    font-family: 'Alfa Slab One', cursive;
+    margin-top: 5%;
+    text-align: center;
+    color: rgb(199, 195, 195);
+    font-size: 19px !important;
+    background-color: rgba(0, 128, 0, 0.808);
+    border-radius: 10%;
+    box-shadow: 15px 15px rgb(2, 66, 2);
+}
+#mmbr {
+    font-family: 'Alfa Slab One', cursive;
+    margin-top: 5%;
+    text-align: center;
+    color: rgb(199, 195, 195);
+    font-size: 19px !important;
+    background-color: rgba(0, 128, 0, 0.808);
+    border-radius: 50%;
+}
+
+#contact {
+    width: 1000px;
+    
+}
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    color: #36A0FF;
+}
+
+.containter {
+    width: 100px;
+}
+
+
+@media (min-width: 2000px) {
+    .banner {
+        max-width: 970px;
+    }
+}
