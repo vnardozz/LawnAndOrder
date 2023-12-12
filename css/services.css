@@ -1,7 +1,8 @@
 body {
     height: 100%;
-    background-image: url(http://neighborsmovingseattle.com/wp-content/uploads/2017/07/lawncare-header-1.jpg);
-    background-size: 3050px;
+    background-image: url(https://thompson-landscape.com/wp-content/uploads/2014/04/lawn-care-plano-tx.jpg);
+    background-size: 1900px;
+    
 }
 
 .navbar-brand {
@@ -10,25 +11,33 @@ body {
     color: green !important;
 }
 
+.services-copy {
+    margin: 20px;
+}
+
 
 #services {
-    font-family: 'Alfa Slab One', cursive;
     margin-top: 5%;
     text-align: center;
-    color: rgb(199, 195, 195);
+    color: rgb(219, 211, 211);
     font-size: 19px !important;
     background-color: rgba(0, 128, 0, 0.808);
     border-radius: 10%;
     box-shadow: 15px 15px rgb(2, 66, 2);
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
 #mmbr {
-    font-family: 'Alfa Slab One', cursive;
     margin-top: 5%;
     text-align: center;
     color: rgb(199, 195, 195);
     font-size: 19px !important;
     background-color: rgba(0, 128, 0, 0.808);
-    border-radius: 50%;
 }
 
 #contact {

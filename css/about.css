@@ -1,6 +1,6 @@
 body {
-    background-image: url(http://neighborsmovingseattle.com/wp-content/uploads/2017/07/lawncare-header-1.jpg);
-    background-size: 3050px;
+  background-image: url(https://thompson-landscape.com/wp-content/uploads/2014/04/lawn-care-plano-tx.jpg);
+  background-size: 1900px;
 }
 
 .navbar-brand {
@@ -18,6 +18,10 @@ body {
     background-color: rgba(0, 128, 0, 0.808);
     border-radius: 10%;
     box-shadow: 15px 15px rgb(2, 66, 2);
+}
+
+.aboutCopy {
+  margin: 20px;
 }
 
 .containter {
